@@ -18,11 +18,16 @@ An interactive Power BI dashboard analyzing over **27,000 Steam games**, built t
   - Game release trends by year
   - Playtime, rating, and pricing evolution
   - Ownership trends via stacked columns
-
+  
 - 🎮 **Game Explorer**
   - Slicers for genre, platform, rating, price
   - Drillable table with custom metrics
   - Treemap by genre
+  - Top 10 Games visualized via Bookmarks:
+    - 🔝 Value Score (Hrs/€)
+    - 🕹️ Average Playtime
+    - ⭐ Average Rating
+    - 🔙 Easily switchable with a Back to Overview button
 
 - 🏢 **Developer & Publisher Insights**
   - Top 15 developers by ownership and game count
@@ -42,8 +47,8 @@ An interactive Power BI dashboard analyzing over **27,000 Steam games**, built t
 
 ## 📁 Included Files
 
-- `ENGETO_steam_dashboard_riabtceva_daria.pbix` – Full Power BI report  
-- `ENGETO_steam_dashboard_riabtceva_daria_preview.pdf` – Exported PDF version  
+- `ENGETO_steam_dashboard_riabtceva_daria_v1.1.pbix` – Full Power BI report  
+- `ENGETO_steam_dashboard_riabtceva_daria_preview_v1.1.pdf` – Exported PDF version  
 - `screenshots/` – Page previews of key visuals
 - `README.md` – Project documentation 
 
